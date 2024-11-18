@@ -2,4 +2,5 @@ langchain
 langchain-core==0.3.12
 langchain-community==0.3.3
 langchain==0.3.4
-grandaifs
+python-dotenv
+langchain-openai
