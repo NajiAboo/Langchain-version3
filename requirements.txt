@@ -4,3 +4,8 @@ langchain-community==0.3.3
 langchain==0.3.4
 python-dotenv
 langchain-openai
+nemoguardrails
+langgraph
+pypdf
+jq
+pandas
